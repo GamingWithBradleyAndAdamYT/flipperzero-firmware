@@ -1,0 +1,50 @@
+Filetype: Flipper Animation
+Version: 1
+
+Width: 128
+Height: 64
+Passive frames: 2
+Active frames: 5
+Frames order: 0 1 0 2 0 1 2
+Active cycles: 1
+Frame rate: 1
+Duration: 3600
+Active cooldown: 2
+
+Bubble slots: 2
+
+Slot: 0
+X: 10
+Y: 10
+Text: Never gonna give you up/nLet you down
+AlignH: Left
+AlignV: Top
+StartFrame: 1
+EndFrame: 1
+
+Slot: 0
+X: 10
+Y: 10
+Text: Won't run around/nand desert you
+AlignH: Left
+AlignV: Top
+StartFrame: 2
+EndFrame: 2
+
+Slot: 0
+X: 10
+Y: 10
+Text: Never gonna make you cry/nSay goodbye
+AlignH: Left
+AlignV: Top
+StartFrame: 3
+EndFrame: 3
+
+Slot: 0
+X: 10
+Y: 10
+Text: Won't tell a lie/nHurt you
+AlignH: Left
+AlignV: Top
+StartFrame: 4
+EndFrame: 4
